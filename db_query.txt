@@ -1,0 +1,13 @@
+Create database named codegig then run the following query to create your table and columns
+
+CREATE TABLE IF NOT EXISTS gigs(
+    id INTEGER NOT NULL auto_increment, 
+    title VARCHAR(255),
+    technologies VARCHAR(255), 
+    description VARCHAR(255),
+    budget VARCHAR(255),
+    contact_email VARCHAR(255),
+    createdAt DATETIME NOT NULL,
+    updatedAt DATETIME NOT NULL,
+    PRIMARY KEY(id)
+)
