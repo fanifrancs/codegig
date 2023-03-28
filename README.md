@@ -1,6 +1,6 @@
 # CodeGig
 
-> Demo job find app for coders. The original app was created by Brad Traversy using PostgreSQL and Handlebars view engine which I replaced with MySQL and ejs view engine. ORM used is Sequelize.
+> Demo job find app for coders. The original app was created by Brad Traversy using Sequelize, PostgreSQL and Handlebars view engine which I replaced with MySQL and ejs view engine.
 
 ## Quick Start
 Check [db_query.txt](db_query.txt) for database setup instructions
