@@ -15,12 +15,6 @@ npm start
 npm run dev
 ```
 
-## App Info
-
-### Version
-
-1.0.0
-
 ### License
 
 This project is licensed under the MIT License
